@@ -1,0 +1,66 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    font-size : 1.5rem;
+    font-weight: 300;
+    background-color : black;
+    color : white;
+}
+
+.container{
+    margin-left : 10%
+}
+
+#msg{
+    width :400px;
+    height: 75px;
+    background-image: url(media/olivier.jpg);
+    background-size: 100% 100%;
+}
+
+#pseudo{
+    height: 20px
+}
+
+.titre{
+    font-size: 35px;
+    color: rgb(255, 94, 0);
+}
+
+#valid{
+    border-radius: .8rem;
+    cursor: pointer;
+    width: initial;
+    height:30px;
+    margin-left: 84%;
+
+}
+
+#valid:hover{
+    background-color: rgb(255, 94, 0);
+}
+
+form {
+    float: left;
+}
+ul{
+    margin-left: 50%;
+    color: white;
+    font-size: 30px;
+    list-style-type: none;
+}
+
+.psd{
+    color: rgb(255, 94, 0);
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 94, 0);
+}
+#copyright{
+    margin-top: 6%;
+    text-align: center;
+    font-size: 10px;
+}
+
